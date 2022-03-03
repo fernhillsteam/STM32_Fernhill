@@ -1,0 +1,10 @@
+19:34:40 **** Incremental Build of configuration Debug for project Ledswitch ****
+make -j4 all 
+arm-none-eabi-size   Ledswitch.elf 
+   text	   data	    bss	    dec	    hex	filename
+   5944	     20	   1572	   7536	   1d70	Ledswitch.elf
+Finished building: default.size.stdout
+ 
+
+19:34:40 Build Finished. 0 errors, 0 warnings. (took 596ms)
+
